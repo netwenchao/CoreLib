@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="copy_right_title">© 2012 By Dragon Two</string>
+	<string name="about_sure">确定</string>
+	<string name="about_about">关于</string>
+	<string name="action_about">关于</string>
+	<string name="action_ratting">去市场评分</string>
+	<string name="action_more_apps">更多软件</string>	
+	<string name="about_more_apps">更多软件</string>
+	<string name="action_settings_title">设置</string>
+	<string name="action_recommon_title">推荐给好友</string>
+	<string name="action_rating_title">评分</string>
+	<string name="action_help_title">帮助</string>
+	<string name="action_about_title">关于</string>
+	<string name="exit_dialog_title">温馨提示</string>
+	<string name="exit_dialog_rating_message">亲,给评个分呗。</string>
+	<string name="exit_dialog_message">确定要退出吗？</string>
+	<string name="exit_dialog_ratting_now">去评分</string>
+	<string name="exit_dialog_ratting_later">稍后评论</string>
+	<string name="exit_dialog_sure">确定</string>
+	<string name="exit_dialog_calcel">取消</string>
+	<string name="msg_network_unavailable">网络不可用，请在开启网络连接之后重试.</string>
+	<string name="Monday">Mon</string>
+    <string name="Tuesday">Tues</string>
+    <string name="Wednesday">Wed</string>
+    <string name="Thursday">Thur</string>
+    <string name="Friday">Fri</string>
+    <string name="Saturday">Sat</string>
+    <string name="Sunday">Sun</string>
+    <string name="mailChooser">请选择邮件发送软件</string>
+    <string name="BtnView">查看</string>
+</resources>

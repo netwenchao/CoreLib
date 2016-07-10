@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="splash_app_name" />
+    <item type="id" name="splash_app_version"/>
+    <item type="id" name="splash_app_desc" />
+    <item type="id" name="splash_app_team_logo" />  
+    <item type="id" name="core_v_msg_message" />
+    <item type="id" name="core_v_msg_title"></item>
+    <item type="id" name="core_v_msg_sure"></item>
+    <item type="id" name="core_v_msg_icon"></item>
+    <item type="id" name="core_v_msg_moreapp"></item>
+</resources>
